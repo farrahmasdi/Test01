@@ -20,7 +20,7 @@
 		As long as the output looks the same
 		Customer Name
 		 	<input type="text" name="cusName"/>  
-			 test remote
+			 test remote 001
 		 -->
 
 		 <p><label for="cars">Car Name</label>
